@@ -94,7 +94,7 @@
     "to-case": "^2.0.0",
     "topojson-client": "^3.1.0",
     "typeface-lato": "0.0.75",
-    "typescript": "^2.8.0",
+    "typescript": "^5.7.2",
     "url-parse": "^1.5.10",
     "url-search-params-polyfill": "^7.0.0",
     "use-query-params": "^1.1.4"
